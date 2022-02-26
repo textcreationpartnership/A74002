@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A commission with instructions, and directions granted by His Maiestie to the master counsaile of the Court of Wards and Liueries for compouding for wards, ideots and lunaticks; and giuen vnder His Highnes great Seale of England, the 23. of February 1617.</title>
+            <title>Proclamations. 1618-02-23</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74002</idno>
+            <idno type="STC">STC 9238.7</idno>
+            <idno type="STC">ESTC S124147</idno>
+            <idno type="EEBO-CITATION">99899129</idno>
+            <idno type="PROQUEST">99899129</idno>
+            <idno type="VID">150591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1956:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A commission with instructions, and directions granted by His Maiestie to the master counsaile of the Court of Wards and Liueries for compouding for wards, ideots and lunaticks; and giuen vnder His Highnes great Seale of England, the 23. of February 1617.</title>
+                  <title>Proclamations. 1618-02-23</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, deputie printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XVIII. [1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date in title given according to Lady Day dating.</note>
+                  <note>Dated at end: Westminster, the three and twentieth day of February, in the fifteenth yeere of our reigne ...</note>
+                  <note>Steele notation: Our  Our  2) or  witnesse.</note>
+                  <note>Reproduction of original in the Queen's College Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Wards and Liveries --  Early works to 1800.</term>
+               <term>Estates (Law) --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150591:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>¶ By the King.</head>
+            <head type="sub">A Commiſſion with Inſtructions, and Directions granted by His Maieſtie to the Maſter and Counſaile of the Court of Wards and Liueries, for compounding for Wards, Ideots and Lunaticks; And giuen vnder His Highnes great Seale of England, <hi>The 23. of February</hi> 1617.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES <hi>by the grace of</hi> GOD <hi>King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c.</hi>
+               </signed>
+               <salute>To Our right truſtie, and right welbeloued Councellour, <hi>William</hi> Lord Knollys, Viſcount Wallingford, Maſter of Our Court of Wards and Liueries, And to Our truſty and welbeloued the Counſell of the ſame Court, And to the Maſter and Councel of the ſaid Court for the time being, Greeting.</salute>
+            </opener>
+            <p>WHEREAS it doth appeare by co<g ref="char:cmbAbbrStroke">̄</g>mon experience, in the courſe which hath bin held, ſithence the firſt erection of Our Court of Wards and Liueries, That partly by the ſlackenes of the friends of the Wards vpon the deceaſe of the parents or Anceſtors, who haue forborne to offer timely Compoſition, ſometimes with opinion that no Title could be found for Vs, and ſometimes with purpoſe to ſuppreſſe the ſame, and partly by the ſuite of other men, the Cuſtody of the bodies and lands of Our Wards haue bene committed to ſuch perſons, ſome for one reſpect, ſome for another, as (notwithſtanding the care and prouidence of you the Maſter and Councell of Our Court, to binde them in great Bonds and Couenants for the well educating of the Children, and pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> of their inheritance) haue bene careleſſe of their education, married ſome in meane places, committed waſts and ſpoiles vpon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lands, and in the end haue exacted greater ſummes of money, for the marriages of ſuch Wards, then they ought to haue done, in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and equitie; notwithſtanding any their disburſements whatſoeuer for paſſing or procuring the ſame.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereas alſo We haue bene informed by you the Maſter of the ſaid Court, that by reaſon of the great difficulties that haue bene <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Court, vpon ſight of Offices, and Surucyes onely, to ſet downe Compoſitions for Wardſhips and Leaſes of Wards lands, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch equalitie and moderation betweene Vs, and Our Subiects, as were iuſt and reaſonable; and that through want of due informa<g ref="char:EOLhyphen"/>tion that behalfe, much of the profit that might haue bene raiſed for Vs, hath bene diuerted to diuers Sutors and Committees, who by <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the trueth of the Wards eſtate, and by miſinforming of the Court therein, haue reaped greater profit, then was intended, if you <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ordinary meanes haue come by the knowledge of their values; ſo as, both Wee haue receiued leſſe then otherwiſe We ſhould <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the Wardes found little eaſe in many caſes.</p>
+            <p>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>refore, for the preuenting of theſe and the like inconueniences, and to the end that Our louing Subiects may ſtand aſſured, That <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nothing more, then that their children and their lands that ſhall fall vnto Vs by reaſon of Wardſhips, might after their deceaſe, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ted to their neereſt and truſtieſt friends, or to ſuch as they be VVil, or otherwiſe, ſhall commit the charge vnto, vpon ſuch valu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iderations, as are iuſt and reaſonable: And to the intent that the Parents and Anceſtours may depart in greater peace, in hope of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gracious fauour; and their friends may ſee their children brought vp in pietie and learning; and may take ſuch care as is fit for <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>uation of their inheritance, if they will ſeeke the ſame in time, and by ſuch meanes as are fit and conuenient; VVe haue thought <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>by to require you, the Maſter and Councell of Our ſaid Cour, and the Maſter and Councel of the ſaid Court for the time being, <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>poſing and committing of the Cuſtody of the bodies and Lands of ſuch our Wards, whoſe Anceſtours haue deceaſed ſince Ia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> paſt, or ſhall die from and after the date of theſe preſents, and of ſuch Ideots and Lunatickes, and their eſtates, as ſhall fall vnto vs h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e forth, you ſtrictly and carefully obſerue theſe Our Directions following.</p>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, That no Graunt or promiſe be made of the cuſtody of the body or lands of any VVard, nor any compoſition for the ſame, vntill the end of one moneth next after the death of the Anceſtour of the VVard, to the end that the neereſt and truſtieſt friends of the Anceſtour, or other perſons nominated by the Anceſtour in that behalfe, may in the meane time be<g ref="char:EOLhyphen"/>come Sutors for the ſame, among whom choice may be made of the beſt and firteſt.</p>
+            <p>ALSO you ſhall doe by your beſt endeuours to informe your ſelfe as particularly as you may, by Commiſſion, ſuruey, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ſe of the trueth of the Wards eſtate, aſwell of his inheritance, as of his goods and chartels, and of the eſtate of the deceaſed An<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> and of all other due circumſtances conſiderable, to the end the compoſitions may be ſuch, as may ſtand both with Our reaſonable <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed with the abilitie of the heires eſtate.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT all ſales and compoſitions for Wardſhips of the bodies, and Leaſes of Lands, be made by the Maſter of the ſaid Court, and <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> perſons as are authorized by Statute in that behalfe. Neuertheleſle, the Surueyour of the Liueries, the Atturney of the VVards, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Auditours, or any foure of them without the Maſter, may treat with any to bring the ſaid VVardſhip and Leaſes to a price the ſame according to the ſaid Statute.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT no VVardſhips of the body or land ſhalbe giuen or granted to any perſon, or at his ſuite, in way of reward or benefit, but the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and value that ſhall be offered, ſhalbe taken to Our vſe; ſo, alwayes as the neereſt and truſtieſt friends, or the perſons nominated <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>our, (they ſeeking the ſame in time conuenient, as a foreſaid, and making fit offer for it) be preferred, and conſideration had VVards Eſtate, and of all due circumſtances conſiderable in ſuch caſes.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT Leaſes of Wards Lands be made withour Fine, for the beſt improoued yeerely Rent that ſhall be offered, conſideration be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> all due Cautions, as aforeſaid.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT ſellable Woods, and Fines of Copy-holds of Inheritance, be alſo reaſonably valued and demiſed with the Lands, for the <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly Rent as aforeſaid; with prouiſion for fellable Woods. That the Leſſees ſell them by fit portions</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT Fines of Copy-holds for Liues, bee made and raiſed to Our vſe, when and as often as the Court ſhall thinke good, by cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ular Commiſsioners to be appointed by the Maſter and Councell of Our ſaid Court, which Commiſsioners ſhall be charged <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> beſt of ſuch Copy-holds to be granted, and truely to anſwere vnto Vs into Our receipt of Our ſayd Court, all ſuch ſummes, <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>nd or couine, as by them ſhall haue beene receiued, due conſideration being had of their paines and expences.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT all Petitions for Compoſitions of Wardſhips <hi>(and Leaſes)</hi> bee preſented and ordered at the Councell Chamber of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wards, at the ſeuerall ſittings for the Wards.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>AT euery ſuch Petition doe expreſſe the ſeuerall Counties wherein the Anceſtor died ſeized of Lands.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>AT the rate and ſumme agreed vpon by the Commiſsioners for the Compoſition of any Ward <hi>(or Leaſe)</hi> doe ſtand and bee <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>d in the Compoſition, neither in the Fine nor Rent.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HAT no Office be found within the yere after the death of the Anceſtor againſt Vs, or a meane tenure of Vs, <hi>(not being Knights</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any Ward within age, vntill the Feodary or Eſcheator doe firſt acquaint the Court for further directions therein <hi>(which the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>ned to doe with all conuenient expedition.)</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>AT not onely euery Committee <hi>(and Leſſee)</hi> but euery Aſsigness of euery Committee <hi>(or Leſſe)</hi> ſhall take the Oath, viz. &amp;c. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> purpoſe euery Committee <hi>(and Leſſee)</hi> and Aſsignee ſhall be ſworne, whether he taketh it to his owne vſe, or to the vſe of a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> end they may both take the Oath.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>AT eſpeciall choiſe bee taken of the Comiſsioners, that take the oath in the Countrey, ſo that the Oath bee truely and why the Committees <hi>(Leſſes)</hi> and Aſsignees and the parties committing truſt to any other.</p>
+            <p>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>T euery Feodary and Eſcheator before the third returne fo euery Tearme, ſhall certifie into the Court a note of all Offices <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Vacation next before, and whether a Tenure bee found for Vs in <hi>Capite,</hi> or by Knights ſeruice, and the names of the Ance<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>re, and his age.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Oath be taken by thoſe that are Committees or Leſſees vpon neglect, in <hi>haec verba.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
